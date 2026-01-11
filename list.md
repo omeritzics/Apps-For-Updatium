@@ -1,3 +1,2 @@
-# Fossify Gallery
-
-https://github.com/FossifyOrg/Messages/releases/download/1.7.0/messages-19-foss-release.apk
+https://github.com/FossifyOrg/Messages/releases/
+https://github.com/FossifyOrg/Notes/releases/
